@@ -1,0 +1,16 @@
+rlwrap ../../../../tools/serial-io/serialdump -b115200 /dev/cu.usbserial-142110
+[INFO: EavesDr   ] Continous RSSI: -103
+[INFO: EavesDr   ] Continous RSSI: -95
+[INFO: EavesDr   ] Continous RSSI: -102
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -101
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -104
+[INFO: EavesDr   ] Continous RSSI: -103
+[INFO: EavesDr   ] Continous RSSI: -89

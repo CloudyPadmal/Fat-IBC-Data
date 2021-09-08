@@ -1,0 +1,295 @@
+[INFO: ZoulJam   ] Packet count reset
+[INFO: ZoulJam   ] Received 0 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 88]
+[INFO: ZoulJam   ] Received 0 from 0012.4b00.060d.b459 [RSSI: -66 | LQI: 88]
+[INFO: ZoulJam   ] Sending 0 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 1 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 88]
+[INFO: ZoulJam   ] Received 1 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 88]
+[INFO: ZoulJam   ] Sending 1 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 2 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 69]
+[INFO: ZoulJam   ] Received 2 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 69]
+[INFO: ZoulJam   ] Sending 2 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 3 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 76]
+[INFO: ZoulJam   ] Received 3 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 76]
+[INFO: ZoulJam   ] Sending 3 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 4 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 85]
+[INFO: ZoulJam   ] Sending 4 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 5 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 88]
+[INFO: ZoulJam   ] Received 5 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 88]
+[INFO: ZoulJam   ] Sending 5 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 6 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 78]
+[INFO: ZoulJam   ] Received 6 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 78]
+[INFO: ZoulJam   ] Sending 6 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 7 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 88]
+[INFO: ZoulJam   ] Received 7 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 88]
+[INFO: ZoulJam   ] Sending 7 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 8 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 74]
+[INFO: ZoulJam   ] Received 8 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 74]
+[INFO: ZoulJam   ] Sending 8 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 9 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Received 9 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Sending 9 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 10 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 63]
+[INFO: ZoulJam   ] Sending 10 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 11 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 92]
+[INFO: ZoulJam   ] Received 11 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 92]
+[INFO: ZoulJam   ] Sending 11 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 12 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Sending 12 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 13 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 71]
+[INFO: ZoulJam   ] Received 13 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 71]
+[INFO: ZoulJam   ] Sending 13 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 14 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 72]
+[INFO: ZoulJam   ] Received 14 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 72]
+[INFO: ZoulJam   ] Sending 14 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 15 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 77]
+[INFO: ZoulJam   ] Received 15 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 77]
+[INFO: ZoulJam   ] Sending 15 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 16 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 92]
+[INFO: ZoulJam   ] Received 16 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 92]
+[INFO: ZoulJam   ] Sending 16 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 17 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 92]
+[INFO: ZoulJam   ] Received 17 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 92]
+[INFO: ZoulJam   ] Sending 17 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 18 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 94]
+[INFO: ZoulJam   ] Received 18 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 94]
+[INFO: ZoulJam   ] Sending 18 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 19 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 72]
+[INFO: ZoulJam   ] Received 19 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 72]
+[INFO: ZoulJam   ] Sending 19 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 20 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Sending 20 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 21 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 89]
+[INFO: ZoulJam   ] Received 21 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 89]
+[INFO: ZoulJam   ] Sending 21 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 22 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 90]
+[INFO: ZoulJam   ] Received 22 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 90]
+[INFO: ZoulJam   ] Sending 22 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 23 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 89]
+[INFO: ZoulJam   ] Received 23 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 89]
+[INFO: ZoulJam   ] Sending 23 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 24 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 108]
+[INFO: ZoulJam   ] Received 24 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 108]
+[INFO: ZoulJam   ] Sending 24 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 25 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 80]
+[INFO: ZoulJam   ] Received 25 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 80]
+[INFO: ZoulJam   ] Sending 25 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 26 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 78]
+[INFO: ZoulJam   ] Received 26 from 0012.4b00.060d.b459 [RSSI: -69 | LQI: 78]
+[INFO: ZoulJam   ] Sending 26 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 27 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 76]
+[INFO: ZoulJam   ] Received 27 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 76]
+[INFO: ZoulJam   ] Sending 27 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 28 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 28 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 85]
+[INFO: ZoulJam   ] Sending 28 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 29 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 29 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 85]
+[INFO: ZoulJam   ] Sending 29 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 30 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 30 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 85]
+[INFO: ZoulJam   ] Sending 30 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 31 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Received 31 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Sending 31 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 32 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 67]
+[INFO: ZoulJam   ] Received 32 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 67]
+[INFO: ZoulJam   ] Sending 32 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 33 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 62]
+[INFO: ZoulJam   ] Received 33 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 62]
+[INFO: ZoulJam   ] Sending 33 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 34 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 60]
+[INFO: ZoulJam   ] Received 34 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 60]
+[INFO: ZoulJam   ] Sending 34 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 35 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 73]
+[INFO: ZoulJam   ] Received 35 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 73]
+[INFO: ZoulJam   ] Sending 35 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 36 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 64]
+[INFO: ZoulJam   ] Received 36 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 64]
+[INFO: ZoulJam   ] Sending 36 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 37 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 62]
+[INFO: ZoulJam   ] Received 37 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 62]
+[INFO: ZoulJam   ] Sending 37 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 38 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 71]
+[INFO: ZoulJam   ] Received 38 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 71]
+[INFO: ZoulJam   ] Sending 38 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 39 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 61]
+[INFO: ZoulJam   ] Received 39 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 61]
+[INFO: ZoulJam   ] Sending 39 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 40 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 40 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 85]
+[INFO: ZoulJam   ] Sending 40 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 41 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Received 41 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Sending 41 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 42 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Received 42 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 82]
+[INFO: ZoulJam   ] Sending 42 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 43 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 63]
+[INFO: ZoulJam   ] Received 43 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 63]
+[INFO: ZoulJam   ] Sending 43 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 44 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 67]
+[INFO: ZoulJam   ] Received 44 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 67]
+[INFO: ZoulJam   ] Sending 44 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 45 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 81]
+[INFO: ZoulJam   ] Received 45 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 81]
+[INFO: ZoulJam   ] Sending 45 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 46 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 84]
+[INFO: ZoulJam   ] Received 46 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 84]
+[INFO: ZoulJam   ] Sending 46 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 47 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 75]
+[INFO: ZoulJam   ] Received 47 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 75]
+[INFO: ZoulJam   ] Sending 47 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 48 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 61]
+[INFO: ZoulJam   ] Received 48 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 61]
+[INFO: ZoulJam   ] Sending 48 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 49 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Received 49 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Sending 49 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 50 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 83]
+[INFO: ZoulJam   ] Received 50 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 83]
+[INFO: ZoulJam   ] Sending 50 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 51 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 77]
+[INFO: ZoulJam   ] Received 51 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 77]
+[INFO: ZoulJam   ] Sending 51 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 52 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Received 52 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Sending 52 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 53 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 64]
+[INFO: ZoulJam   ] Received 53 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 64]
+[INFO: ZoulJam   ] Sending 53 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 54 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Received 54 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Sending 54 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 55 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 55 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Sending 55 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 56 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 81]
+[INFO: ZoulJam   ] Received 56 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 81]
+[INFO: ZoulJam   ] Sending 56 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 57 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Received 57 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Sending 57 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 58 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 62]
+[INFO: ZoulJam   ] Received 58 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 62]
+[INFO: ZoulJam   ] Sending 58 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 59 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 79]
+[INFO: ZoulJam   ] Received 59 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 79]
+[INFO: ZoulJam   ] Sending 59 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 60 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 87]
+[INFO: ZoulJam   ] Received 60 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 87]
+[INFO: ZoulJam   ] Sending 60 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 61 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 70]
+[INFO: ZoulJam   ] Received 61 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 70]
+[INFO: ZoulJam   ] Sending 61 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 62 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 68]
+[INFO: ZoulJam   ] Received 62 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Sending 62 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 63 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 57]
+[INFO: ZoulJam   ] Received 63 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 57]
+[INFO: ZoulJam   ] Sending 63 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 64 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 79]
+[INFO: ZoulJam   ] Received 64 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 79]
+[INFO: ZoulJam   ] Sending 64 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 65 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Received 65 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 68]
+[INFO: ZoulJam   ] Sending 65 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 66 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 58]
+[INFO: ZoulJam   ] Received 66 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 58]
+[INFO: ZoulJam   ] Sending 66 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 67 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 77]
+[INFO: ZoulJam   ] Received 67 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 77]
+[INFO: ZoulJam   ] Sending 67 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 68 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 71]
+[INFO: ZoulJam   ] Received 68 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 71]
+[INFO: ZoulJam   ] Sending 68 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 69 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 72]
+[INFO: ZoulJam   ] Sending 69 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 70 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 73]
+[INFO: ZoulJam   ] Received 70 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 73]
+[INFO: ZoulJam   ] Sending 70 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 71 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 73]
+[INFO: ZoulJam   ] Received 71 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 73]
+[INFO: ZoulJam   ] Sending 71 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 72 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 71]
+[INFO: ZoulJam   ] Received 72 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 71]
+[INFO: ZoulJam   ] Sending 72 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 73 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 55]
+[INFO: ZoulJam   ] Received 73 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 55]
+[INFO: ZoulJam   ] Sending 73 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 74 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Received 74 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 82]
+[INFO: ZoulJam   ] Sending 74 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 75 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 76]
+[INFO: ZoulJam   ] Received 75 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 76]
+[INFO: ZoulJam   ] Sending 75 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 76 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 75]
+[INFO: ZoulJam   ] Received 76 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 75]
+[INFO: ZoulJam   ] Sending 76 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 77 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 77 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 85]
+[INFO: ZoulJam   ] Sending 77 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 78 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 71]
+[INFO: ZoulJam   ] Received 78 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 71]
+[INFO: ZoulJam   ] Sending 78 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 79 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 63]
+[INFO: ZoulJam   ] Received 79 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 63]
+[INFO: ZoulJam   ] Sending 79 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 80 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 73]
+[INFO: ZoulJam   ] Received 80 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 73]
+[INFO: ZoulJam   ] Sending 80 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 81 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 83]
+[INFO: ZoulJam   ] Received 81 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 83]
+[INFO: ZoulJam   ] Sending 81 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 82 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 78]
+[INFO: ZoulJam   ] Received 82 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 78]
+[INFO: ZoulJam   ] Sending 82 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 83 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 77]
+[INFO: ZoulJam   ] Received 83 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 77]
+[INFO: ZoulJam   ] Sending 83 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 84 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 74]
+[INFO: ZoulJam   ] Received 84 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 74]
+[INFO: ZoulJam   ] Sending 84 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 85 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 75]
+[INFO: ZoulJam   ] Received 85 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 75]
+[INFO: ZoulJam   ] Sending 85 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 86 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 64]
+[INFO: ZoulJam   ] Received 86 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 64]
+[INFO: ZoulJam   ] Sending 86 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 87 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 80]
+[INFO: ZoulJam   ] Received 87 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 80]
+[INFO: ZoulJam   ] Sending 87 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 88 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 78]
+[INFO: ZoulJam   ] Received 88 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 78]
+[INFO: ZoulJam   ] Sending 88 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 89 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 62]
+[INFO: ZoulJam   ] Sending 89 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 90 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 73]
+[INFO: ZoulJam   ] Received 90 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 73]
+[INFO: ZoulJam   ] Sending 90 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 91 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 80]
+[INFO: ZoulJam   ] Received 91 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 80]
+[INFO: ZoulJam   ] Sending 91 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 92 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 82]
+[INFO: ZoulJam   ] Received 92 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 82]
+[INFO: ZoulJam   ] Sending 92 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 93 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 70]
+[INFO: ZoulJam   ] Received 93 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 70]
+[INFO: ZoulJam   ] Sending 93 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 94 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 58]
+[INFO: ZoulJam   ] Received 94 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 58]
+[INFO: ZoulJam   ] Sending 94 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 95 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 69]
+[INFO: ZoulJam   ] Received 95 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 69]
+[INFO: ZoulJam   ] Sending 95 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 96 from 0012.4b00.11f4.8192 [RSSI: -66 | LQI: 72]
+[INFO: ZoulJam   ] Received 96 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 72]
+[INFO: ZoulJam   ] Sending 96 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 97 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 67]
+[INFO: ZoulJam   ] Received 97 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 67]
+[INFO: ZoulJam   ] Sending 97 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 98 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 72]
+[INFO: ZoulJam   ] Received 98 from 0012.4b00.060d.b459 [RSSI: -68 | LQI: 72]
+[INFO: ZoulJam   ] Sending 98 to (NULL LL addr)
+[INFO: ZoulJam   ] Received 99 from 0012.4b00.11f4.8192 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Received 99 from 0012.4b00.060d.b459 [RSSI: -67 | LQI: 85]
+[INFO: ZoulJam   ] Sending 99 to (NULL LL addr)
